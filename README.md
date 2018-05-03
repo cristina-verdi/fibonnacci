@@ -1,3 +1,3 @@
-####Fibonacci kata
+#### Fibonacci kata
 
-######Cristina Verdi @Codurance. Apr, 2018
+###### Cristina Verdi @Codurance. Apr, 2018
